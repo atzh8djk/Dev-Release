@@ -5,10 +5,12 @@ code3
 code3
 code2
 code2
-code2
-code2
-code2
-code2
+
+
+public int setPostition() {
+  println()
+}
+
 code2
 code1
 code1
